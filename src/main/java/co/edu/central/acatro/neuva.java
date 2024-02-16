@@ -1,5 +1,5 @@
 package co.edu.central.acatro;
 
 public class neuva {
-    private int uno;
+    private int dos;
 }
